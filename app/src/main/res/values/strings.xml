@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Media Notas</string>
+    <string name="calcular_m_dia">Calcular Média</string>
+    <string name="m_dia_final">Média Final:</string>
+</resources>
